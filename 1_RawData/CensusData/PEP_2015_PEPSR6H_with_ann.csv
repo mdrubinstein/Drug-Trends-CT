@@ -1,0 +1,578 @@
+Year.id,Year.display-label,Sex.id,Sex.display-label,Hisp.id,Hisp.display-label,GEO.id,GEO.id2,GEO.display-label,totpop,wa,ba,ia,aa,na,tom
+Id,Year,Id,Sex,Id,Hispanic Origin,Id,Id2,Geography,Total,Race Alone - White,Race Alone - Black or African American,Race Alone - American Indian and Alaska Native,Race Alone - Asian,Race Alone - Native Hawaiian and Other Pacific Islander,Two or More Races
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",76109,65326,6408,1428,530,284,2133
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",395119,315156,51237,540,22203,178,5805
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",471228,380482,57645,1968,22733,462,7938
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",78916,68043,5840,1706,606,391,2330
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",366685,296807,43299,508,20539,157,5375
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",445601,364850,49139,2214,21145,548,7705
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",155025,133369,12248,3134,1136,675,4463
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",761804,611963,94536,1048,42742,335,11180
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",916829,745332,106784,4182,43878,1010,15643
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",76113,65330,6408,1428,530,284,2133
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",395126,315160,51237,540,22204,178,5807
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",471239,380490,57645,1968,22734,462,7940
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",78917,68044,5840,1706,606,391,2330
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",366694,296813,43300,508,20539,157,5377
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",445611,364857,49140,2214,21145,548,7707
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",155030,133374,12248,3134,1136,675,4463
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",761820,611973,94537,1048,42743,335,11184
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",916850,745347,106785,4182,43879,1010,15647
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",76739,65879,6473,1427,530,282,2148
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",395882,315423,51459,535,22433,171,5861
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",472621,381302,57932,1962,22963,453,8009
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",79545,68591,5886,1708,609,392,2359
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",367578,297099,43523,518,20816,153,5469
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",447123,365690,49409,2226,21425,545,7828
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",156284,134470,12359,3135,1139,674,4507
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",763460,612522,94982,1053,43249,324,11330
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",919744,746992,107341,4188,44388,998,15837
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",79584,68249,6790,1461,535,286,2263
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",397352,314654,52235,553,23621,162,6127
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",476936,382903,59025,2014,24156,448,8390
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",82503,71070,6193,1723,597,379,2541
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",369574,296878,44516,535,21800,155,5690
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",452077,367948,50709,2258,22397,534,8231
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",162087,139319,12983,3184,1132,665,4804
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",766926,611532,96751,1088,45421,317,11817
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",929013,750851,109734,4272,46553,982,16621
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",82289,70533,7047,1490,540,292,2387
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",397693,313054,52855,569,24673,161,6381
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",479982,383587,59902,2059,25213,453,8768
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",84926,73044,6429,1800,618,393,2642
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",370330,296129,45069,536,22545,148,5903
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",455256,369173,51498,2336,23163,541,8545
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",167215,143577,13476,3290,1158,685,5029
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",768023,609183,97924,1105,47218,309,12284
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",935238,752760,111400,4395,48376,994,17313
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",84721,72582,7313,1494,543,290,2499
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",398479,311781,53711,568,25675,163,6581
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",483200,384363,61024,2062,26218,453,9080
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",87294,74985,6698,1867,640,387,2717
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",371299,295197,45904,546,23284,152,6216
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",458593,370182,52602,2413,23924,539,8933
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",172015,147567,14011,3361,1183,677,5216
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",769778,606978,99615,1114,48959,315,12797
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",941793,754545,113626,4475,50142,992,18013
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",86884,74394,7564,1513,547,284,2582
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",398170,309646,54277,585,26723,162,6777
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",485054,384040,61841,2098,27270,446,9359
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",89565,76850,6918,1932,641,384,2840
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",371197,293566,46507,552,23996,149,6427
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",460762,370416,53425,2484,24637,533,9267
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",176449,151244,14482,3445,1188,668,5422
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",769367,603212,100784,1137,50719,311,13204
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",945816,754456,115266,4582,51907,979,18626
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",89037,76158,7858,1540,540,292,2649
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",397104,307035,54872,597,27563,165,6872
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",486141,383193,62730,2137,28103,457,9521
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",91797,78538,7242,1998,662,391,2966
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",370115,290908,47226,547,24695,143,6596
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",461912,369446,54468,2545,25357,534,9562
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",180834,154696,15100,3538,1202,683,5615
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09001,09001,"Fairfield County, Connecticut",767219,597943,102098,1144,52258,308,13468
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09001,09001,"Fairfield County, Connecticut",948053,752639,117198,4682,53460,991,19083
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",70220,55155,10153,1362,546,309,2695
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",391781,306808,57947,696,19429,126,6775
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",462001,361963,68100,2058,19975,435,9470
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",66563,52786,9049,1319,514,423,2472
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",365450,286255,53194,635,18990,109,6267
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",432013,339041,62243,1954,19504,532,8739
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",136783,107941,19202,2681,1060,732,5167
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",757231,593063,111141,1331,38419,235,13042
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",894014,701004,130343,4012,39479,967,18209
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",70220,55155,10153,1362,546,309,2695
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",391791,306818,57947,696,19429,126,6775
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",462011,361973,68100,2058,19975,435,9470
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",66563,52786,9049,1319,514,423,2472
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",365455,286260,53194,635,18990,109,6267
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",432018,339046,62243,1954,19504,532,8739
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",136783,107941,19202,2681,1060,732,5167
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",757246,593078,111141,1331,38419,235,13042
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",894029,701019,130343,4012,39479,967,18209
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",70630,55491,10198,1366,556,317,2702
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",391914,306509,58120,696,19637,127,6825
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",462544,362000,68318,2062,20193,444,9527
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",67084,53218,9098,1327,519,430,2492
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",365675,285989,53361,651,19239,101,6334
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",432759,339207,62459,1978,19758,531,8826
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",137714,108709,19296,2693,1075,747,5194
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",757589,592498,111481,1347,38876,228,13159
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",895303,701207,130777,4040,39951,975,18353
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",72497,57065,10366,1382,578,327,2779
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",390454,303700,58489,762,20377,130,6996
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",462951,360765,68855,2144,20955,457,9775
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",69238,54986,9315,1368,531,441,2597
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",364739,283664,53938,671,19900,101,6465
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",433977,338650,63253,2039,20431,542,9062
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",141735,112051,19681,2750,1109,768,5376
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",755193,587364,112427,1433,40277,231,13461
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",896928,699415,132108,4183,41386,999,18837
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",74194,58470,10492,1437,596,345,2854
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",388419,300473,58852,780,21045,138,7131
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",462613,358943,69344,2217,21641,483,9985
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",70973,56401,9454,1425,554,450,2689
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",363563,280999,54530,644,20583,113,6694
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",434536,337400,63984,2069,21137,563,9383
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",145167,114871,19946,2862,1150,795,5543
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",751982,581472,113382,1424,41628,251,13825
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",897149,696343,133328,4286,42778,1046,19368
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",75807,59734,10727,1489,607,344,2906
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",386711,297452,59294,829,21726,130,7280
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",462518,357186,70021,2318,22333,474,10186
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",73076,58081,9599,1523,573,466,2834
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",362332,278045,55274,661,21300,110,6942
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",435408,336126,64873,2184,21873,576,9776
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",148883,117815,20326,3012,1180,810,5740
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",749043,575497,114568,1490,43026,240,14222
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",897926,693312,134894,4502,44206,1050,19962
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",77622,61121,10961,1541,615,365,3019
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",384044,293541,59672,838,22468,138,7387
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",461666,354662,70633,2379,23083,503,10406
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",74735,59440,9720,1584,570,494,2927
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",360470,274858,55715,629,22018,116,7134
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",435205,334298,65435,2213,22588,610,10061
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",152357,120561,20681,3125,1185,859,5946
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",744514,568399,115387,1467,44486,254,14521
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",896871,688960,136068,4592,45671,1113,20467
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",79221,62253,11214,1605,636,370,3143
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",381657,290010,60111,818,23124,145,7449
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",460878,352263,71325,2423,23760,515,10592
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",76356,60629,9939,1668,564,506,3050
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",358607,271750,56208,617,22681,114,7237
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",434963,332379,66147,2285,23245,620,10287
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09003,09003,"Hartford County, Connecticut",155577,122882,21153,3273,1200,876,6193
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09003,09003,"Hartford County, Connecticut",740264,561760,116319,1435,45805,259,14686
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09003,09003,"Hartford County, Connecticut",895841,684642,137472,4708,47005,1135,20879
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4226,3492,366,98,32,19,219
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",92363,88498,1020,136,1588,25,1096
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",96589,91990,1386,234,1620,44,1315
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4309,3616,308,107,26,28,224
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",89029,85191,1218,148,1330,20,1122
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",93338,88807,1526,255,1356,48,1346
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",8535,7108,674,205,58,47,443
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",181392,173689,2238,284,2918,45,2218
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",189927,180797,2912,489,2976,92,2661
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4226,3492,366,98,32,19,219
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",92363,88498,1020,136,1588,25,1096
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",96589,91990,1386,234,1620,44,1315
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4309,3616,308,107,26,28,224
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",89029,85191,1218,148,1330,20,1122
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",93338,88807,1526,255,1356,48,1346
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",8535,7108,674,205,58,47,443
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",181392,173689,2238,284,2918,45,2218
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",189927,180797,2912,489,2976,92,2661
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4256,3515,367,104,33,19,218
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",92225,88337,1017,141,1602,26,1102
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",96481,91852,1384,245,1635,45,1320
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4348,3641,313,108,29,29,228
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",88944,85064,1228,149,1345,23,1135
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",93292,88705,1541,257,1374,52,1363
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",8604,7156,680,212,62,48,446
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",181169,173401,2245,290,2947,49,2237
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",189773,180557,2925,502,3009,97,2683
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4401,3646,376,97,34,20,228
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",91553,87562,1039,140,1657,30,1125
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",95954,91208,1415,237,1691,50,1353
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4537,3787,353,103,29,29,236
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",88454,84394,1272,143,1425,26,1194
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",92991,88181,1625,246,1454,55,1430
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",8938,7433,729,200,63,49,464
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",180007,171956,2311,283,3082,56,2319
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",188945,179389,3040,483,3145,105,2783
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4574,3821,373,99,32,19,230
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",90639,86559,1067,150,1696,30,1137
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",95213,90380,1440,249,1728,49,1367
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4660,3885,360,105,30,28,252
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",87582,83428,1294,150,1478,28,1204
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",92242,87313,1654,255,1508,56,1456
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",9234,7706,733,204,62,47,482
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",178221,169987,2361,300,3174,58,2341
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",187455,177693,3094,504,3236,105,2823
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4765,3976,383,109,35,19,243
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",89936,85761,1124,150,1732,32,1137
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",94701,89737,1507,259,1767,51,1380
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4858,4049,389,104,31,27,258
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",87050,82785,1350,151,1497,32,1235
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",91908,86834,1739,255,1528,59,1493
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",9623,8025,772,213,66,46,501
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",176986,168546,2474,301,3229,64,2372
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",186609,176571,3246,514,3295,110,2873
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",4951,4129,397,115,37,20,253
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",88847,84593,1167,141,1750,32,1164
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",93798,88722,1564,256,1787,52,1417
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",5125,4267,416,106,38,30,268
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",85987,81612,1412,165,1521,32,1245
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",91112,85879,1828,271,1559,62,1513
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",10076,8396,813,221,75,50,521
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",174834,166205,2579,306,3271,64,2409
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",184910,174601,3392,527,3346,114,2930
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",5117,4289,384,136,35,20,253
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",87923,83560,1206,146,1781,31,1199
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",93040,87849,1590,282,1816,51,1452
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",5259,4385,423,114,37,35,265
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",85304,80849,1443,162,1546,33,1271
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",90563,85234,1866,276,1583,68,1536
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",10376,8674,807,250,72,55,518
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09005,09005,"Litchfield County, Connecticut",173227,164409,2649,308,3327,64,2470
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09005,09005,"Litchfield County, Connecticut",183603,173083,3456,558,3399,119,2988
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",3932,3242,413,43,36,13,185
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",80836,73379,3794,114,2254,34,1261
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84768,76621,4207,157,2290,47,1446
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",3902,3272,390,39,38,16,147
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",77006,70072,3528,99,2026,21,1260
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80908,73344,3918,138,2064,37,1407
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",7834,6514,803,82,74,29,332
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",157842,143451,7322,213,4280,55,2521
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",165676,149965,8125,295,4354,84,2853
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",3932,3242,413,43,36,13,185
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",80836,73379,3794,114,2254,34,1261
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84768,76621,4207,157,2290,47,1446
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",3902,3272,390,39,38,16,147
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",77006,70072,3528,99,2026,21,1260
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80908,73344,3918,138,2064,37,1407
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",7834,6514,803,82,74,29,332
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",157842,143451,7322,213,4280,55,2521
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",165676,149965,8125,295,4354,84,2853
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",3980,3278,418,46,36,13,189
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",80758,73291,3788,118,2258,33,1270
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84738,76569,4206,164,2294,46,1459
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",3948,3312,397,41,35,16,147
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",76942,69989,3539,102,2022,22,1268
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80890,73301,3936,143,2057,38,1415
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",7928,6590,815,87,71,29,336
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",157700,143280,7327,220,4280,55,2538
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",165628,149870,8142,307,4351,84,2874
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4183,3459,424,45,37,15,203
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",80846,73151,3880,116,2362,32,1305
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",85029,76610,4304,161,2399,47,1508
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4252,3540,434,43,39,19,177
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",76917,69800,3611,108,2068,25,1305
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",81169,73340,4045,151,2107,44,1482
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",8435,6999,858,88,76,34,380
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",157763,142951,7491,224,4430,57,2610
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",166198,149950,8349,312,4506,91,2990
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4326,3585,442,46,36,17,200
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",80370,72500,3938,123,2446,32,1331
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84696,76085,4380,169,2482,49,1531
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4377,3608,465,60,47,18,179
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",76435,69141,3725,113,2117,28,1311
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80812,72749,4190,173,2164,46,1490
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",8703,7193,907,106,83,35,379
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",156805,141641,7663,236,4563,60,2642
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",165508,148834,8570,342,4646,95,3021
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4637,3858,460,52,42,17,208
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",79977,72037,3959,127,2474,34,1346
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84614,75895,4419,179,2516,51,1554
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4547,3727,494,73,53,21,179
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",76140,68690,3781,132,2160,33,1344
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80687,72417,4275,205,2213,54,1523
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",9184,7585,954,125,95,38,387
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",156117,140727,7740,259,4634,67,2690
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",165301,148312,8694,384,4729,105,3077
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4793,3949,509,61,41,21,212
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",79529,71413,4035,128,2555,38,1360
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84322,75362,4544,189,2596,59,1572
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4809,3904,553,84,59,21,188
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",75626,68033,3833,132,2225,36,1367
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80435,71937,4386,216,2284,57,1555
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",9602,7853,1062,145,100,42,400
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",155155,139446,7868,260,4780,74,2727
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",164757,147299,8930,405,4880,116,3127
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",5041,4147,544,66,44,23,217
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",78990,70758,4035,125,2660,38,1374
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",84031,74905,4579,191,2704,61,1591
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",4953,4031,550,88,64,21,199
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",75079,67295,3896,136,2318,41,1393
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",80032,71326,4446,224,2382,62,1592
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",9994,8178,1094,154,108,44,416
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09007,09007,"Middlesex County, Connecticut",154069,138053,7931,261,4978,79,2767
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09007,09007,"Middlesex County, Connecticut",164063,146231,9025,415,5086,123,3183
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",65513,53520,7883,1195,410,266,2239
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",381874,303719,54544,745,15884,117,6865
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",447387,357239,62427,1940,16294,383,9104
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",64230,53130,7138,1157,370,268,2167
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",350860,280873,48383,729,14631,140,6104
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",415090,334003,55521,1886,15001,408,8271
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",129743,106650,15021,2352,780,534,4406
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",732734,584592,102927,1474,30515,257,12969
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",862477,691242,117948,3826,31295,791,17375
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",65513,53520,7883,1195,410,266,2239
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",381871,303716,54544,745,15884,117,6865
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",447384,357236,62427,1940,16294,383,9104
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",64230,53130,7138,1157,370,268,2167
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",350860,280873,48383,729,14631,140,6104
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",415090,334003,55521,1886,15001,408,8271
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",129743,106650,15021,2352,780,534,4406
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",732731,584589,102927,1474,30515,257,12969
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",862474,691239,117948,3826,31295,791,17375
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",65948,53893,7914,1205,409,263,2264
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",381823,303348,54629,748,16061,121,6916
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",447771,357241,62543,1953,16470,384,9180
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",64679,53537,7156,1163,368,260,2195
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",350951,280706,48456,742,14760,142,6145
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",415630,334243,55612,1905,15128,402,8340
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",130627,107430,15070,2368,777,523,4459
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",732774,584054,103085,1490,30821,263,13061
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",863401,691484,118155,3858,31598,786,17520
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",67820,55489,8019,1239,417,274,2382
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",379978,300482,54984,762,16617,133,7000
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",447798,355971,63003,2001,17034,407,9382
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",66547,55120,7236,1251,371,255,2314
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",349632,278491,48724,742,15255,154,6266
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",416179,333611,55960,1993,15626,409,8580
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",134367,110609,15255,2490,788,529,4696
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",729610,578973,103708,1504,31872,287,13266
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",863977,689582,118963,3994,32660,816,17962
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",69559,57022,8140,1248,415,268,2466
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",378138,297409,55233,788,17483,136,7089
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",447697,354431,63373,2036,17898,404,9555
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",68225,56560,7382,1303,376,252,2352
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",347999,275781,49106,777,15806,149,6380
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",416224,332341,56488,2080,16182,401,8732
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",137784,113582,15522,2551,791,520,4818
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",726137,573190,104339,1565,33289,285,13469
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",863921,686772,119861,4116,34080,805,18287
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",71329,58513,8266,1276,410,276,2588
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",375541,293842,55636,784,17874,141,7264
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",446870,352355,63902,2060,18284,417,9852
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",69938,57959,7530,1372,375,253,2449
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",345707,272555,49557,810,16055,147,6583
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",415645,330514,57087,2182,16430,400,9032
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",141267,116472,15796,2648,785,529,5037
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",721248,566397,105193,1594,33929,288,13847
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",862515,682869,120989,4242,34714,817,18884
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",73106,59955,8463,1303,421,294,2670
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",373021,290229,56001,781,18475,143,7392
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",446127,350184,64464,2084,18896,437,10062
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",71633,59222,7818,1443,384,265,2501
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",343478,269544,49775,829,16490,154,6686
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",415111,328766,57593,2272,16874,419,9187
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",144739,119177,16281,2746,805,559,5171
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",716499,559773,105776,1610,34965,297,14078
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",861238,678950,122057,4356,35770,856,19249
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",74937,61351,8738,1360,426,307,2755
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",370013,286297,56354,765,18963,151,7483
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",444950,347648,65092,2125,19389,458,10238
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",73320,60511,7988,1573,387,275,2586
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",341200,266422,50101,845,16929,160,6743
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",414520,326933,58089,2418,17316,435,9329
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09009,09009,"New Haven County, Connecticut",148257,121862,16726,2933,813,582,5341
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09009,09009,"New Haven County, Connecticut",711213,552719,106455,1610,35892,311,14226
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09009,09009,"New Haven County, Connecticut",859470,674581,123181,4543,36705,893,19567
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",11263,8484,1427,370,166,55,761
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",125989,108605,6727,1047,5919,103,3588
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",137252,117089,8154,1417,6085,158,4349
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",11951,9145,1306,419,192,94,795
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",124852,106522,8011,1058,5510,88,3663
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136803,115667,9317,1477,5702,182,4458
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",23214,17629,2733,789,358,149,1556
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",250841,215127,14738,2105,11429,191,7251
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",274055,232756,17471,2894,11787,340,8807
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",11263,8484,1427,370,166,55,761
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",125984,108600,6727,1047,5919,103,3588
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",137247,117084,8154,1417,6085,158,4349
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",11951,9145,1306,419,192,94,795
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",124848,106518,8011,1058,5510,88,3663
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136799,115663,9317,1477,5702,182,4458
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",23214,17629,2733,789,358,149,1556
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",250832,215118,14738,2105,11429,191,7251
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",274046,232747,17471,2894,11787,340,8807
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",11358,8558,1442,368,167,58,765
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",125802,108358,6717,1047,5978,106,3596
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",137160,116916,8159,1415,6145,164,4361
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",12072,9241,1310,418,195,97,811
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",124835,106401,8039,1071,5560,90,3674
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136907,115642,9349,1489,5755,187,4485
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",23430,17799,2752,786,362,155,1576
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",250637,214759,14756,2118,11538,196,7270
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",274067,232558,17508,2904,11900,351,8846
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",11829,8964,1460,377,173,60,795
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",125075,107457,6718,1028,6115,114,3643
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136904,116421,8178,1405,6288,174,4438
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",12444,9552,1318,441,198,100,835
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",123863,105440,7926,1059,5685,99,3654
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136307,114992,9244,1500,5883,199,4489
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",24273,18516,2778,818,371,160,1630
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",248938,212897,14644,2087,11800,213,7297
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",273211,231413,17422,2905,12171,373,8927
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",12362,9365,1516,417,167,62,835
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",124855,107002,6841,1043,6160,109,3700
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",137217,116367,8357,1460,6327,171,4535
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",13009,10050,1329,454,207,127,842
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",124168,105356,8188,1073,5763,106,3682
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",137177,115406,9517,1527,5970,233,4524
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",25371,19415,2845,871,374,189,1677
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",249023,212358,15029,2116,11923,215,7382
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",274394,231773,17874,2987,12297,404,9059
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",12818,9717,1588,436,170,60,847
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",123906,105825,7003,1059,6136,111,3772
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136724,115542,8591,1495,6306,171,4619
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",13440,10361,1364,497,197,137,884
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",123552,104438,8412,1097,5740,110,3755
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136992,114799,9776,1594,5937,247,4639
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",26258,20078,2952,933,367,197,1731
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",247458,210263,15415,2156,11876,221,7527
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",273716,230341,18367,3089,12243,418,9258
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",13149,9936,1642,461,176,62,872
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",123131,104943,7044,1027,6217,117,3783
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136280,114879,8686,1488,6393,179,4655
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",13868,10677,1399,524,208,154,906
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",122595,103477,8400,1086,5764,112,3756
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136463,114154,9799,1610,5972,266,4662
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",27017,20613,3041,985,384,216,1778
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",245726,208420,15444,2113,11981,229,7539
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",272743,229033,18485,3098,12365,445,9317
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",13601,10314,1691,465,188,63,880
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",122241,103910,7126,1020,6265,121,3799
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",135842,114224,8817,1485,6453,184,4679
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",14315,10986,1476,530,211,176,936
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",121706,102467,8444,1091,5824,104,3776
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",136021,113453,9920,1621,6035,280,4712
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09011,09011,"New London County, Connecticut",27916,21300,3167,995,399,239,1816
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09011,09011,"New London County, Connecticut",243947,206377,15570,2111,12089,225,7575
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09011,09011,"New London County, Connecticut",271863,227677,18737,3106,12488,464,9391
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",2916,2413,250,49,44,9,151
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72612,67087,1734,100,2580,14,1097
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75528,69500,1984,149,2624,23,1248
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3686,2954,292,39,93,77,231
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",73477,66721,2994,120,2575,18,1049
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",77163,69675,3286,159,2668,95,1280
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",6602,5367,542,88,137,86,382
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",146089,133808,4728,220,5155,32,2146
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",152691,139175,5270,308,5292,118,2528
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",2916,2413,250,49,44,9,151
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72608,67084,1734,100,2580,14,1096
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75524,69497,1984,149,2624,23,1247
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3686,2954,292,39,93,77,231
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",73472,66717,2994,120,2575,18,1048
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",77158,69671,3286,159,2668,95,1279
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",6602,5367,542,88,137,86,382
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",146080,133801,4728,220,5155,32,2144
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",152682,139168,5270,308,5292,118,2526
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3041,2469,262,51,43,9,207
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72780,67167,1779,114,2609,14,1097
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75821,69636,2041,165,2652,23,1304
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3739,2998,294,38,92,78,239
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",73648,66818,2995,123,2632,19,1061
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",77387,69816,3289,161,2724,97,1300
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",6780,5467,556,89,135,87,446
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",146428,133985,4774,237,5241,33,2158
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",153208,139452,5330,326,5376,120,2604
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3211,2612,271,52,46,11,219
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72798,66877,1902,117,2790,14,1098
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",76009,69489,2173,169,2836,25,1317
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3860,3098,316,40,91,75,240
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",73200,66283,2919,129,2794,19,1056
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",77060,69381,3235,169,2885,94,1296
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",7071,5710,587,92,137,86,459
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",145998,133160,4821,246,5584,33,2154
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",153069,138870,5408,338,5721,119,2613
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3324,2697,295,60,46,11,215
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72462,66367,1962,108,2899,14,1112
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75786,69064,2257,168,2945,25,1327
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3799,3076,301,50,76,62,234
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72349,65559,2669,132,2863,21,1105
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",76148,68635,2970,182,2939,83,1339
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",7123,5773,596,110,122,73,449
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",144811,131926,4631,240,5762,35,2217
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",151934,137699,5227,350,5884,108,2666
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3403,2789,273,62,48,9,222
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72340,66009,2049,112,3029,15,1126
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75743,68798,2322,174,3077,24,1348
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3894,3212,286,45,78,54,219
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72085,65222,2676,133,2923,20,1111
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75979,68434,2962,178,3001,74,1330
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",7297,6001,559,107,126,63,441
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",144425,131231,4725,245,5952,35,2237
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",151722,137232,5284,352,6078,98,2678
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3517,2887,283,65,48,10,224
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",72091,65627,2083,108,3128,16,1129
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75608,68514,2366,173,3176,26,1353
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",4056,3340,302,47,79,59,229
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",71933,64826,2781,139,3034,19,1134
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75989,68166,3083,186,3113,78,1363
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",7573,6227,585,112,127,69,453
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",144024,130453,4864,247,6162,35,2263
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",151597,136680,5449,359,6289,104,2716
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",3640,2986,311,63,43,10,227
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",71845,65096,2162,109,3294,17,1167
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75485,68082,2473,172,3337,27,1394
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",4235,3463,333,48,81,63,247
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",71700,64423,2817,141,3143,18,1158
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",75935,67886,3150,189,3224,81,1405
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09013,09013,"Tolland County, Connecticut",7875,6449,644,111,124,73,474
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09013,09013,"Tolland County, Connecticut",143545,129519,4979,250,6437,35,2325
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09013,09013,"Tolland County, Connecticut",151420,135968,5623,361,6561,108,2799
+cen42010,"April 1, 2010 Census",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5512,4522,623,116,40,19,192
+cen42010,"April 1, 2010 Census",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",54218,51453,831,211,740,21,962
+cen42010,"April 1, 2010 Census",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",59730,55975,1454,327,780,40,1154
+cen42010,"April 1, 2010 Census",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5839,4727,631,173,44,30,234
+cen42010,"April 1, 2010 Census",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52859,49847,1193,228,631,19,941
+cen42010,"April 1, 2010 Census",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58698,54574,1824,401,675,49,1175
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",11351,9249,1254,289,84,49,426
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",107077,101300,2024,439,1371,40,1903
+cen42010,"April 1, 2010 Census",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",118428,110549,3278,728,1455,89,2329
+est42010,"April 1, 2010 Estimates Base",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5512,4522,623,116,40,19,192
+est42010,"April 1, 2010 Estimates Base",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",54220,51454,831,211,740,21,963
+est42010,"April 1, 2010 Estimates Base",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",59732,55976,1454,327,780,40,1155
+est42010,"April 1, 2010 Estimates Base",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5839,4727,631,173,44,30,234
+est42010,"April 1, 2010 Estimates Base",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52863,49850,1193,228,631,19,942
+est42010,"April 1, 2010 Estimates Base",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58702,54577,1824,401,675,49,1176
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",11351,9249,1254,289,84,49,426
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",107083,101304,2024,439,1371,40,1905
+est42010,"April 1, 2010 Estimates Base",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",118434,110553,3278,728,1455,89,2331
+est72010,"July 1, 2010",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5541,4549,627,113,38,19,195
+est72010,"July 1, 2010",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",54247,51456,843,214,742,21,971
+est72010,"July 1, 2010",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",59788,56005,1470,327,780,40,1166
+est72010,"July 1, 2010",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5891,4772,636,172,44,30,237
+est72010,"July 1, 2010",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52914,49888,1208,225,622,19,952
+est72010,"July 1, 2010",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58805,54660,1844,397,666,49,1189
+est72010,"July 1, 2010",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",11432,9321,1263,285,82,49,432
+est72010,"July 1, 2010",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",107161,101344,2051,439,1364,40,1923
+est72010,"July 1, 2010",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",118593,110665,3314,724,1446,89,2355
+est72011,"July 1, 2011",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5794,4791,625,112,40,19,207
+est72011,"July 1, 2011",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",53910,51050,857,226,767,23,987
+est72011,"July 1, 2011",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",59704,55841,1482,338,807,42,1194
+est72011,"July 1, 2011",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6030,4909,622,170,46,30,253
+est72011,"July 1, 2011",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52684,49595,1230,215,653,20,971
+est72011,"July 1, 2011",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58714,54504,1852,385,699,50,1224
+est72011,"July 1, 2011",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",11824,9700,1247,282,86,49,460
+est72011,"July 1, 2011",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",106594,100645,2087,441,1420,43,1958
+est72011,"July 1, 2011",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",118418,110345,3334,723,1506,92,2418
+est72012,"July 1, 2012",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",5934,4940,613,108,42,22,209
+est72012,"July 1, 2012",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",53551,50629,859,232,796,24,1011
+est72012,"July 1, 2012",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",59485,55569,1472,340,838,46,1220
+est72012,"July 1, 2012",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6125,5006,618,181,47,31,242
+est72012,"July 1, 2012",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52332,49210,1220,214,664,22,1002
+est72012,"July 1, 2012",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58457,54216,1838,395,711,53,1244
+est72012,"July 1, 2012",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",12059,9946,1231,289,89,53,451
+est72012,"July 1, 2012",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",105883,99839,2079,446,1460,46,2013
+est72012,"July 1, 2012",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",117942,109785,3310,735,1549,99,2464
+est72013,"July 1, 2013",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6070,5066,618,109,37,20,220
+est72013,"July 1, 2013",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",53158,50217,843,230,823,27,1018
+est72013,"July 1, 2013",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",59228,55283,1461,339,860,47,1238
+est72013,"July 1, 2013",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6278,5155,627,176,48,31,241
+est72013,"July 1, 2013",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52080,48898,1262,222,662,28,1008
+est72013,"July 1, 2013",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58358,54053,1889,398,710,59,1249
+est72013,"July 1, 2013",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",12348,10221,1245,285,85,51,461
+est72013,"July 1, 2013",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",105238,99115,2105,452,1485,55,2026
+est72013,"July 1, 2013",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",117586,109336,3350,737,1570,106,2487
+est72014,"July 1, 2014",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6279,5243,627,116,45,22,226
+est72014,"July 1, 2014",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52638,49623,867,236,862,26,1024
+est72014,"July 1, 2014",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58917,54866,1494,352,907,48,1250
+est72014,"July 1, 2014",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6418,5281,628,181,52,33,243
+est72014,"July 1, 2014",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",51495,48273,1270,226,679,25,1022
+est72014,"July 1, 2014",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",57913,53554,1898,407,731,58,1265
+est72014,"July 1, 2014",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",12697,10524,1255,297,97,55,469
+est72014,"July 1, 2014",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",104133,97896,2137,462,1541,51,2046
+est72014,"July 1, 2014",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",116830,108420,3392,759,1638,106,2515
+est72015,"July 1, 2015",female,Female,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6400,5327,656,117,49,24,227
+est72015,"July 1, 2015",female,Female,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",52372,49323,866,240,867,25,1051
+est72015,"July 1, 2015",female,Female,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",58772,54650,1522,357,916,49,1278
+est72015,"July 1, 2015",male,Male,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",6552,5377,661,182,53,35,244
+est72015,"July 1, 2015",male,Male,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",51249,47986,1310,220,668,25,1040
+est72015,"July 1, 2015",male,Male,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",57801,53363,1971,402,721,60,1284
+est72015,"July 1, 2015",totsex,Both Sexes,hisp,Hispanic,0500000US09015,09015,"Windham County, Connecticut",12952,10704,1317,299,102,59,471
+est72015,"July 1, 2015",totsex,Both Sexes,nhisp,Not Hispanic,0500000US09015,09015,"Windham County, Connecticut",103621,97309,2176,460,1535,50,2091
+est72015,"July 1, 2015",totsex,Both Sexes,tothisp,Total,0500000US09015,09015,"Windham County, Connecticut",116573,108013,3493,759,1637,109,2562

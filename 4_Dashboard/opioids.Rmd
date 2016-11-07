@@ -1,0 +1,198 @@
+---
+title: "Connecticut accidental drug deaths (2012-15)"
+resource_files:
+  - analyticfile.RDS
+  - dashboard-helper-funs.R
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+    source_code: 'https://github.com/mdrubinstein/Drug-Trends-CT'
+runtime: shiny
+---
+
+```{r setup, include = FALSE}
+library(flexdashboard)
+library(highcharter)
+library(tidyverse)
+source('dashboard-helper-funs.R')
+```
+
+```{r, include = FALSE}
+# Read and subset data based on inputs -----------------------------------------
+drug_data <- readRDS('analyticfile.RDS')%>%
+  filter(!is.na(drug_type)) %>%
+  dmap_at('year', ~ lubridate::year(as.Date(as.character(.x), '%Y'))) %>%
+  dmap_at(c('race', 'ethnicity', 'sex'), capVect)
+
+tethnicity       <- lazyeval::interp(~ a, a = as.name('ethnicity'))
+tyear            <- lazyeval::interp(~ a, a = as.name('year'))
+
+data <- reactive({
+  drugtype  <- input$drugtype
+  vector <- c('ethnicity', 'race', 'sex')
+  
+  total_vars    <- vector[grep('FALSE', vector %in% input$demographic)]
+  
+  total_var1    <- lazyeval::interp(~ a == 'Total', a = as.name(total_vars[1]))
+  total_var2    <- lazyeval::interp(~ a == 'Total', a = as.name(total_vars[2]))
+  grp_var       <- lazyeval::interp(~ a, a = as.name(input$demographic))
+  eyear         <- lazyeval::interp(~ a, a = as.name('year'))
+  
+  filter_total  <- lazyeval::interp(~ a != 'Total', a = as.name(input$demographic))
+  
+  sub <- drug_data %>%
+         filter(county %in% input$county,
+                drug_type == drugtype) %>%
+         filter_(.dots     = total_var1, total_var2, filter_total) %>%
+         group_by_(.dots   = grp_var, eyear) %>%
+         summarise(population = sum(population),
+                   value      = sum(value),
+                   death_rate = round((value/population * 100000),2)) 
+  
+  sub
+})
+```
+
+
+Graphs
+======================================================================
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+
+```{r}
+# UI Script ----------------------------------------------------------------------
+drugs <- c('Total'                   = 'total',
+           'Only Opioids'            = 'only opioids',
+           'Any Opioid'              = 'any opioid',
+           'Only Non-Heroin Opioids' = 'only non-heroin opioids',
+           'Any Non-Heroin Opioid'   = 'any non-heroin opioid',
+           'Any Non-Opioid'          = 'any non-opioid',
+           'Only Non-Opioids'        = 'only non-opioids')
+
+counties <- c('Fairfield'  = '001',
+              'Hartford'   = '003',
+              'Litchfield' = '005',
+              'Middlesex'  = '007',
+              'New Haven'  = '009',
+              'New London' = '011',
+              'Tolland'    = '013',
+              'Windham'    = '015')
+
+demographics <- c('Ethnicity' = 'ethnicity',
+                  'Race'      = 'race',
+                  'Sex'       = 'sex')
+
+selectInput("drugtype", "Please select the drug type", choices = drugs)
+selectInput("demographic", "Please select the demographic", choices = demographics)
+checkboxGroupInput("county", "Please select county/counties", choices = counties, selected = 'Fairfield')
+
+```
+
+Row {data-height=600}
+-----------------------------------------------------------------------
+
+### Accidental deaths per 100,000
+
+```{r}
+renderHighchart({
+grps <- data()[[input$demographic]] %>% unique()
+  
+highchart(type = 'chart') %>%
+  hc_add_series_df(data(), type = 'line', x = year, y = death_rate, group = grps) %>%
+  hc_title(text = 'Drug deaths per 100,000 in Connecticut') %>%
+  hc_xAxis(tickPositions = c(2012, 2013, 2014, 2015)) %>%
+  hc_yAxis(tickPositions = seq(0, 30, 5)) 
+})
+```
+
+Row {data-height=400}
+-----------------------------------------------------------------------
+
+### Population
+
+```{r}
+renderHighchart({
+  grp_var <- lazyeval::interp(~ a != 'Total', a = as.name(input$demographic))
+  
+  data <- data() %>%
+          select(-death_rate, -value) %>%
+          filter_(.dots = grp_var) %>%
+          spread_(input$demographic, 'population') %>%
+          as.data.frame()
+
+  funs <- function(plot) {
+    if(input$demographic == 'ethnicity') {
+      plot %>%
+      hc_add_series(name = 'Hispanic', data = data[['Hispanic']], type = 'area') %>%
+      hc_add_series(name = 'Not hispanic', data = data[['Not Hispanic']], type = 'area')
+  }
+    else if(input$demographic == 'race') {
+      plot %>%
+      hc_add_series(name = 'Black', data = data[['Black']], type = 'area') %>%
+      hc_add_series(name = 'Other', data = data[['Other']], type = 'area') %>%
+      hc_add_series(name = 'White', data = data[['White']], type = 'area')
+  }
+    else if(input$demographic == 'sex') {
+      plot %>%
+      hc_add_series(name = 'Female', data = data[['Female']], type = 'area') %>%
+      hc_add_series(name = 'Male', data = data[['Male']], type = 'area')
+  }
+}
+
+highchart() %>%
+  hc_plotOptions(area = list(
+    stacking = 'normal')) %>%
+  hc_xAxis(categories = data[['year']]) %>%
+  hc_yAxis(tickPositions = seq(0, 4000000, 1000000)) %>%
+  funs()
+})
+```
+
+### Mean demographic distribution
+
+```{r}
+renderHighchart({
+grp_var <- lazyeval::interp(~ a != 'Total', a = as.name(input$demographic))
+grp     <- lazyeval::interp(~ a, a = as.name(input$demographic))
+
+data <- data() %>%
+        select(-death_rate, -year, -value) %>%
+        filter_(.dots = grp_var) %>%
+        mutate(total = sum(population)) %>%
+        group_by_(.dots = grp) %>%
+        summarise(percent = round(100*(mean(population)/mean(total)),2))
+
+slices <- function(demographic){
+  if(demographic == 'race') {
+  slices <- list(list(y = data[['percent']][1], name = data[[input$demographic]][1]),
+                 list(y = data[['percent']][2], name = data[[input$demographic]][2]),
+                 list(y = data[['percent']][3], name = data[[input$demographic]][3]))
+  } else {
+  slices <- list(list(y = data[['percent']][1], name = data[[input$demographic]][1]),
+                 list(y = data[['percent']][2], name = data[[input$demographic]][2]))
+  }
+  return(slices)
+}
+
+pie_slices <- slices(input$demographic)
+  
+highchart() %>%
+  hc_add_series(name = 'Percent', type = 'pie', data = pie_slices)
+})
+```
+
+About {data-orientation=rows}
+===========================================================
+
+Row {data-height=1000}
+------------------------------------------------------------
+
+### About the data
+
+```{r}
+renderUI({
+HTML("This dashboard uses data from the Connecticut Office of the Chief Medical Examiner, which details the number of drug deaths for each combination of race, sex, ethnicity, and age for each Connecticut county from 2012 to 2015. To generate mortality estimates, I used Census population data with bridged race categories generated by the CDC from 2012-15. <br/> <br/> Connecticut drug death data can be found at the <a href = http://data.ctdata.org/dataset/accidental-drug-related-deaths-by-drug-type> link. </a>  <br/> <br/> US bridged-race Census populations can be found at the <a href = http://www.cdc.gov/nchs/nvss/bridged_race.htm> link. </a> <br/> <br/>")
+})
+```

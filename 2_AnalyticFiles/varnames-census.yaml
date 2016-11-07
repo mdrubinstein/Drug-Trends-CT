@@ -1,0 +1,26 @@
+vintage:
+  character
+state:
+  character
+county:
+  character
+age:
+  numeric
+race_sex:
+  numeric
+ethnicity:
+  numeric
+est_2010_base_r:
+  numeric
+est_2010_post_r:
+  numeric
+est_2011_r:
+  numeric
+est_2012:
+  numeric
+est_2013:
+  numeric
+est_2014:
+  numeric
+est_2015:
+  numeric
